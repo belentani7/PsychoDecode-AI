@@ -1,0 +1,5 @@
+fpdf2
+matplotlib
+python-docx
+PyMuPDF
+openai
